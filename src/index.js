@@ -19,6 +19,7 @@ const App=()=>{
                 <CommentsDetails author='tariq' time='9:00pm' image={Faker.image.avatar()} text='welldone'/>
                 </ApprovelCard>
                 <Message heading='Web developer' para='this is our more powerfull domain'/>
+                
                 <Component1 >
                     <Component2 />
                 </Component1>
